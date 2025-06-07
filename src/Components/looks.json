@@ -1,0 +1,171 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "brand1",
+      "looks": [
+        {
+          "id": 1,
+          "image": "https://images.pexels.com/photos/8498378/pexels-photo-8498378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "products": [
+            {
+              "id": 1,
+              "x": 30,
+              "y": 40,
+              "name": "Yellow Top",
+              "price": "$189"
+            },
+            {
+              "id": 2,
+              "x": 50,
+              "y": 70,
+              "name": "Orange Coat",
+              "price": "$120"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "image": "https://images.pexels.com/photos/12560382/pexels-photo-12560382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "products": [
+            {
+              "id": 3,
+              "x": 40,
+              "y": 30,
+              "name": "Jordan Outfit",
+              "price": "$199"
+            },
+            {
+              "id": 4,
+              "x": 35,
+              "y": 85,
+              "name": "Cropped Frock",
+              "price": "$249"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "video": "https://videos.pexels.com/video-files/1154850/1154850-hd_1920_1080_24fps.mp4",
+          "products": [
+            { "id": 5, "x": 40, "y": 30, "name": "Nike Dunk", "price": "$199" },
+            {
+              "id": 6,
+              "x": 35,
+              "y": 85,
+              "name": "Jacket",
+              "price": "$249"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "brand2",
+      "looks": [
+        {
+          "id": 3,
+          "image": "https://images.pexels.com/photos/12560382/pexels-photo-12560382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "products": [
+            {
+              "id": 5,
+              "x": 45,
+              "y": 40,
+              "name": "Adidas Ultraboost",
+              "price": "$179"
+            },
+            {
+              "id": 6,
+              "x": 60,
+              "y": 60,
+              "name": "Adidas Tracksuit",
+              "price": "$129"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "image": "https://images.pexels.com/photos/12560382/pexels-photo-12560382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "products": [
+            {
+              "id": 7,
+              "x": 40,
+              "y": 50,
+              "name": "Adidas Originals",
+              "price": "$159"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "brand3",
+      "looks": [
+        {
+          "id": 5,
+          "image": "",
+          "products": [
+            { "id": 8, "x": 35, "y": 45, "name": "Puma RS-X", "price": "$149" },
+            { "id": 9, "x": 55, "y": 65, "name": "Puma Hoodie", "price": "$89" }
+          ]
+        },
+        {
+          "id": 6,
+          "image": "https://images.pexels.com/photos/32117173/pexels-photo-32117173/free-photo-of-vibrant-portrait-of-a-laughing-woman-with-blue-hair.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "products": [
+            {
+              "id": 10,
+              "x": 45,
+              "y": 55,
+              "name": "Sneakers",
+              "price": "$119"
+            },
+            {
+              "id": 11,
+              "x": 40,
+              "y": 75,
+              "name": "Jacket",
+              "price": "$199"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "brand4",
+      "looks": [
+        {
+          "id": 7,
+          "image": "https://picsum.photos/400/600?random=7",
+          "products": [
+            { "id": 12, "x": 40, "y": 45, "name": "NB 574", "price": "$129" },
+            {
+              "id": 13,
+              "x": 50,
+              "y": 65,
+              "name": "Sweatshirt",
+              "price": "$99"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "image": "https://picsum.photos/400/600?random=8",
+          "products": [
+            { "id": 14, "x": 35, "y": 50, "name": "NB 327", "price": "$109" },
+            {
+              "id": 15,
+              "x": 45,
+              "y": 70,
+              "name": "Windbreaker",
+              "price": "$149"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
